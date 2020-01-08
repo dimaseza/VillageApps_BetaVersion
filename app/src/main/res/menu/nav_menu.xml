@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile_menu"
+            android:icon="@drawable/profile_icon"
+            android:title="Profile Menu" />
+        <item
+            android:id="@+id/setting_menu"
+            android:icon="@drawable/setting_icon"
+            android:title="Settings" />
+    </group>
+
+    <item android:title="Lainnya">
+        <menu>
+            <item
+                android:id="@+id/logout_menu"
+                android:title="@string/logout" />
+            <item
+                android:id="@+id/help_menu"
+                android:title="@string/help" />
+
+        </menu>
+
+    </item>
+
+
+</menu>

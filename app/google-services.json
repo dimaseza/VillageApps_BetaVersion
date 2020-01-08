@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715939443864",
+    "firebase_url": "https://uji-coba-vifast.firebaseio.com",
+    "project_id": "uji-coba-vifast",
+    "storage_bucket": "uji-coba-vifast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715939443864:android:e1076883bf4a9cbe5c4ced",
+        "android_client_info": {
+          "package_name": "com.daivers.ujicobavifast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715939443864-ld53gd0ib899g8qe9kbta1i1d19leln2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daivers.ujicobavifast",
+            "certificate_hash": "e4dfbc524d1646c4aa1f7129c7d04c9aaa68aba0"
+          }
+        },
+        {
+          "client_id": "715939443864-rpo1isnqhoj0ck3gb8bgcimh95skm9p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyFbBO6bY5Tw4blYD1MuH5SPakNo4p0mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715939443864-rpo1isnqhoj0ck3gb8bgcimh95skm9p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

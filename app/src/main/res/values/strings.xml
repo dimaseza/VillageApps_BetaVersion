@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Uji Coba Vifast</string>
+
+    <string name="search_title">Search</string>
+    <string name="search_hint">Enter text</string>
+    <string name="logout">LOG OUT</string>
+    <string name="help">HELP</string>
+    <string name="home">BERANDA</string>
+    <string name="call_center">LAYANAN</string>
+    <string name="forum_desa">FORUM DESA</string>
+    <string name="villagers">DATA PENDUDUK</string>
+    <string name="family">DATA KELUARGA</string>
+    <string name="village">DATA DESA</string>
+    <string name="location">LOKASI ANDA SAAT INI: GANG RADEN SALEH NO 19, SUKAPURA, KABUPATEN BANDUNG, JAWA BARAT.</string>
+    <string name="village_office">DINAS PENDUDUK \nCATATAN SIPIL</string>
+    <string name="police">POLISI</string>
+    <string name="hospital">RUMAH SAKIT/AMBULANCE</string>
+    <string name="team_sar">TIM SAR</string>
+    <string name="add_number">TAMBAHKAN NOMOR LAIN</string>
+    <string name="phone_number">Nomor Telepon</string>
+    <string name="password">Kata Sandi</string>
+    <string name="forget_password">LUPA PASSWORD?</string>
+    <string name="sign_in">MASUK</string>
+    <string name="no_account">SAYA BELUM PUNYA AKUN</string>
+    <string name="regist_account">REGISTRASI AKUN</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="create_account">BUAT AKUN</string>
+    <string name="thank_register">Terima Kasih sudah registrasi.</string>
+    <string name="check_otp">Kode OTP akan dikirim melalui SMS dan \nisikan kode OTP pada kolom dibawah ini.</string>
+    <string name="send_again">Kirim ulang</string>
+    <string name="change_photo">Ganti foto profil</string>
+    <string name="address">Alamat</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="email_address">Alamat Email</string>
+
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+</resources>
